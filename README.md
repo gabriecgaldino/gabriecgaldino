@@ -1,5 +1,14 @@
 <div align="center">
 
+<div style="display: flex; justify-content: center;">
+<a href="https://github.com/gabriecgaldino">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 300px;"/>
+</a>
+<a href="https://github.com/gabriecgaldino">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 300px;"/>
+</a>
+</div>
+
 ### 🚀 Skills
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
@@ -42,18 +51,5 @@
   </a>
 </div>
 
-### 👀 Estatísticas do GitHub
-<div style="display: flex; justify-content: center;">
-<a href="https://github.com/gabriecgaldino">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 300px; margin: 10px;"/>
-</a>
-<a href="https://github.com/gabriecgaldino">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 300px; margin: 10px;"/>
-</a>
-</div>
 
 </div>
-
----
-
-Obrigado por visitar meu perfil! Explore meus projetos e entre em contato se tiver alguma dúvida.
