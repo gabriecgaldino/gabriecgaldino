@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 🚀 Skills
-<div style="margin-bottom: 10px;">
+<div style="margin-bottom: 10px; justify-content: space-around">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 5px;"/>
