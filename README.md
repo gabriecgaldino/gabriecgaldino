@@ -1,5 +1,18 @@
 <div align="center">
 
+<style>
+        table {
+            border-collapse: collapse; /* Remove o espaço entre as bordas */
+            width: 100%; /* Faz a tabela ocupar toda a largura disponível */
+        }
+
+        th, td {
+            border: none; /* Remove as bordas das células */
+            padding: 8px; /* Adiciona algum espaço interno */
+            text-align: left; /* Alinha o texto à esquerda */
+        }
+    </style>
+
 <table>
   <tbody>
     <tr>
