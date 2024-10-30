@@ -1,34 +1,10 @@
 <div align="center">
-
-<style>
-        table {
-            border-collapse: collapse; /* Remove o espaço entre as bordas */
-            width: 100%; /* Faz a tabela ocupar toda a largura disponível */
-        }
-
-        th, td {
-            border: none; /* Remove as bordas das células */
-            padding: 8px; /* Adiciona algum espaço interno */
-            text-align: left; /* Alinha o texto à esquerda */
-        }
-    </style>
-
-<table>
-  <tbody>
-    <tr>
-      <th>
-          <a href="https://github.com/gabriecgaldino">
-            <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 350px;"/>
-          </a>
-      </th>
-      <th>
-          <a href="https://github.com/gabriecgaldino">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 300px;"/>
-          </a>
-      </th>
-    </tr>
-  </tbody>
-</table>
+<a href="https://github.com/gabriecgaldino">
+        <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 350px;"/>
+</a>
+<a href="https://github.com/gabriecgaldino">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 300px;"/>
+</a>
 
 <table>
   <caption>🚀 Skills</caption>
