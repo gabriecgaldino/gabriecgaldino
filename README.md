@@ -1,9 +1,25 @@
 <div align="center">
 
+<table>
+  <caption>Metrics</caption>
+  <tbody>
+    <tr>
+      <th>
+          <a href="https://github.com/gabriecgaldino">
+            <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 300px;"/>
+          </a>
+      </th>
+      <th>
+          <a href="https://github.com/gabriecgaldino">
+            <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 300px;"/>
+          </a>
+      </th>
+    </tr>
+  </tbody>
+</table>
+
 <div style="display: flex; justify-content: center;">
-<a href="https://github.com/gabriecgaldino">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 300px;"/>
-</a>
+
 <a href="https://github.com/gabriecgaldino">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 300px;"/>
 </a>
