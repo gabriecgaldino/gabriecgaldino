@@ -23,22 +23,23 @@
   
 </div>
 
-
-
-### 🌱 No Momento Estou Estudando
-
-- **DevOps** - CI/CD e automação de infraestrutura
-- **Machine Learning** - Modelagem e análise de dados com IA
-
-### 📫 Entre em Contato
+<div>
+  ### 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 - [E-mail](mailto:seu-email@exemplo.com)
+</div>
 
-### 👀 Estatísticas do GitHub
+<div >
+  ### 👀 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+</div>
+
+
+
+
 
 
 </div>
