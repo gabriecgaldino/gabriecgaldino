@@ -1,6 +1,8 @@
 # 👋 Olá, eu sou Gabriel!
 
-<div align="center">
+<div 
+  display="flex"
+  align="center">
 
 <div>
 ### 🚀 Minhas Habilidades
@@ -33,8 +35,8 @@
 <div >
   ### 👀 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical)  
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical)
 </div>
 
 
