@@ -2,7 +2,8 @@
 
 <div 
   display="flex"
-  align="center">
+  align="center"
+  flex-aligin="start">
 
 <div>
 ### 🚀 Minhas Habilidades
