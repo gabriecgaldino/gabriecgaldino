@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 🚀 Skills
-<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 10px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 10px; background-color: 'white'">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 100px;"/>
@@ -32,10 +32,10 @@ Experiência com Git, GitHub, Docker e Linux para controle de versão e ambiente
 
 ### 👀 Estatísticas do GitHub
 <a href="https://github.com/gabriecgaldino">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px width: 400px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px; width: 400px;"/>
 </a>
 <a href="https://github.com/gabriecgaldino">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px width: 400px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 400px;"/>
 </a>
 </div>
 
