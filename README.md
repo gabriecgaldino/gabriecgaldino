@@ -1,9 +1,5 @@
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🚀 Skills
 <div style="margin-bottom: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 5px;"/>
@@ -28,9 +24,6 @@
 </div>
 Experiência com Git, GitHub, Docker e Linux para controle de versão e ambientes em contêineres.
 
-</td>
-<td width="50%" valign="top">
-
 ### 📫 Contact me
 <div style="margin-bottom: 10px;">
   <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
@@ -54,9 +47,6 @@ Experiência com Git, GitHub, Docker e Linux para controle de versão e ambiente
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" />
 </a>
 
-</td>
-</tr>
-</table>
 
 </div>
 
