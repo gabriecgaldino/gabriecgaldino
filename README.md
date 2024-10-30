@@ -41,12 +41,11 @@ Experiência com Git, GitHub, Docker e Linux para controle de versão e ambiente
 
 ### 👀 Estatísticas do GitHub
 <a href="https://github.com/gabriecgaldino">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" style="height: 200px;"/>
 </a>
 <a href="https://github.com/gabriecgaldino">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px;"/>
 </a>
-
 </div>
 
 ---
