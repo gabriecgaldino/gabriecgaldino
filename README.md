@@ -5,7 +5,8 @@
 <a href="https://github.com/gabriecgaldino">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 300px;"/>
 </a>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="margin: 30px;"/>
+</br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" style="margin: 30px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" style="margin: 30px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" style="margin: 30px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" style="margin: 30px;"/>
