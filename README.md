@@ -1,9 +1,4 @@
-# gabrielcgaldino
 # 👋 Olá, eu sou o Gabriel!
-
-Bem-vindo(a) ao meu perfil!
-
-
 ## 🚀 Minhas Habilidades
 
 ### Linguagens de Programação
