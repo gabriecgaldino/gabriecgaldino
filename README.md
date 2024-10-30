@@ -1,7 +1,7 @@
 <div align="center">
 
 ### 🚀 Skills
-<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 10px; background-color: white">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 10px;" width="600">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="margin: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" style="margin: 100px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" height="60" style="margin: 100px;"/>
