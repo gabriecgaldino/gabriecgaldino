@@ -31,4 +31,24 @@ Experiência com Git, GitHub, Docker e Linux para controle de versão e ambiente
   </a>
   
   <a href="mailto:seu-email@exemplo.com">
-      <img src="https://img.icons8.com/ios-glyphs/3
+      <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" width="60" height="60" style="margin: 10px;"/>
+  </a>
+  
+  <a href="https://www.instagram.com/seu-usuario" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="60" height="60" style="margin: 10px;"/>
+  </a>
+</div>
+
+### 👀 Estatísticas do GitHub
+<a href="https://github.com/gabriecgaldino">
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/gabriecgaldino">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" />
+</a>
+
+</div>
+
+---
+
+Obrigado por visitar meu perfil! Explore meus projetos e entre em contato se tiver alguma dúvida.
