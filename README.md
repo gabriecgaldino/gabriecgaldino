@@ -1,7 +1,6 @@
 <div align="center">
 
 <table>
-  <caption>Metrics</caption>
   <tbody>
     <tr>
       <th>
@@ -17,11 +16,6 @@
     </tr>
   </tbody>
 </table>
-
-<div style="display: flex; justify-content: center;">
-
-
-</div>
 
 ### 🚀 Skills
 
