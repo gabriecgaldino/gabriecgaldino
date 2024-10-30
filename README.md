@@ -6,9 +6,6 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical" style="height: 200px; width: 300px;"/>
 </a>
 </br>
-      
-
-</br>
 <table>
         <tr>
                 <th>
@@ -43,16 +40,6 @@
                 </tr>
         </tbody>
 </table>
-
-#### 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
-  
-</div>
-
-#### 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: 20px;">
-  
-</div>
 
 <p>Experiência com Git, GitHub, Docker e Linux para controle de versão e ambientes em contêineres.</p>
 
