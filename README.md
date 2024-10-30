@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Gabriel!
-
 <div align="center">
 
 <table>
@@ -36,8 +34,7 @@ Experiência com Git, GitHub, Docker e Linux para controle de versão e ambiente
 <td width="50%" valign="top">
 
 ### 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
+  <img src="" width="40" height="40">
 - [E-mail](mailto:seu-email@exemplo.com)
 
 ### 👀 Estatísticas do GitHub
