@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Gabriel!
 
-<div 
-  display="flex"
-  align="center"
-  flex-aligin="start">
+<div align="center">
 
-<div>
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚀 Minhas Habilidades
 
 #### Linguagens de Programação
@@ -23,27 +23,23 @@
 - **Git & GitHub** - Controle de versão e colaboração
 - **Docker** - Ambientes em contêineres
 - **Linux** - Configuração e automação de servidores
-  
-</div>
 
-<div>
-  ### 📫 Contato
+</td>
+<td width="50%" valign="top">
+
+### 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/seu-usuario)
 - [E-mail](mailto:seu-email@exemplo.com)
-</div>
 
-<div >
-  ### 👀 Estatísticas do GitHub
+### 👀 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=gabriecgaldino&show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriecgaldino&layout=compact&theme=radical)
-</div>
 
-
-
-
-
+</td>
+</tr>
+</table>
 
 </div>
 
