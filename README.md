@@ -1,15 +1,8 @@
-# 👋 Olá, eu sou [Seu Nome]!
-
-Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de soluções inovadoras e práticas. Confira abaixo um pouco sobre minhas habilidades e interesses.
-
----
+# 👋 Olá, eu sou Gabriel!
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-
+<div>
 ### 🚀 Minhas Habilidades
 
 #### Linguagens de Programação
@@ -27,9 +20,10 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnol
 - **Git & GitHub** - Controle de versão e colaboração
 - **Docker** - Ambientes em contêineres
 - **Linux** - Configuração e automação de servidores
+  
+</div>
 
-</td>
-<td>
+
 
 ### 🌱 No Momento Estou Estudando
 
@@ -46,9 +40,6 @@ Bem-vindo(a) ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnol
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)  
 ![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
 
-</td>
-</tr>
-</table>
 
 </div>
 
