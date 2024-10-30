@@ -1,5 +1,3 @@
-# 👋 Olá, eu sou Gabriel!
-
 <div align="center">
 
 <table>
