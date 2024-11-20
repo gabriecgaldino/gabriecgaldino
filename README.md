@@ -30,6 +30,7 @@
                         <th>
                               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30" height="30" style="margin: 30px;"/>
                               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="30" height="30" style="margin: 30px;"/>   
+                              <img src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/15484977381551942825-512.png" width="30" height="30" style="margin:30px;/>
                         </th>
                         <th>
                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" style="margin: 30px;"/>
