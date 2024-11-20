@@ -44,11 +44,8 @@
 
 <p>Experiência com Git, GitHub, Docker e Linux para controle de versão e ambientes em contêineres.</p>
 
-### 📫 Contact me
 <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-  <a href="https://www.linkedin.com/in/seu-usuario" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielcgaldiino/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="60" height="60" style="margin: 10px;"/>
   </a>
-
-
 </div>
